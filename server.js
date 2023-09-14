@@ -28,7 +28,7 @@ var ingredients = [
     },
     {
         "id": "ppo3j3",
-        "text": "Frog hands"
+        "text": "Frog hand"
     }
 ];
 
