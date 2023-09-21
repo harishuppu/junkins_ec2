@@ -28,7 +28,7 @@ var ingredients = [
     },
     {
         "id": "nothing here to seee ....go away.....",
-        "text": "Frog handssss..."
+        "text": "Frog ly"
     }
 ];
 
